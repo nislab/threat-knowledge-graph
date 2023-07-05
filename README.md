@@ -2,7 +2,7 @@
 
 This repository contains accompanying materials to our work entitled [*Uncovering Product Vulnerabilities with Threat Knowledge Graphs*](https://ieeexplore.ieee.org/abstract/document/9973028). In this work, we generate a **threat knowledge graph** from public threat databases, including Common Platform Enumeration (CPE), Common Vulnerabilities and Exposures (CVE), and Common Weakness Enumeration (CWE). Through knowledge graph embedding, we are able to uncover the CVE-CPE and CVE-CWE associations that might exist but are not known yet.
 
-##Overview
+## Overview
 
 This repository has three main folders: `/preprocess/`, `/threat_kg/`, and `/neo4j_import/`.
 
@@ -12,7 +12,7 @@ The `/threat_kg/` folder contains materials relevant to the threat knowledge gra
 
 The `/neo4j_import/` folder contains the document on importing the knowledge graph to [Neo4j Graph Database](https://neo4j.com/) for visualization and query. This process is detailed in `threat_kg_with_neo4j.md`. The knowledge graph is stored as a set of CSV files under `/files/`, such that it can be easily imported into Neo4j.
 
-##Workflow
+## Workflow
 
 Our workflow is illustrated in the following figure:
 
@@ -25,7 +25,7 @@ With the embedded knowledge graph, we can evaluate its quality and prediction ca
 ![Usage of embedded knowledge graph](figures/workflow2.png "Prediction")
 
 
-##License
+## License
 
 These materials may be freely used and distributed, provided that attribution to this original source is acknowledged. If you use the resources in this repository, we kindly ask that you refer to the following work:
 
@@ -50,7 +50,7 @@ These materials may be freely used and distributed, provided that attribution to
     }
     ```
 
-##Acknowledgments
+## Acknowledgments
 
 This project was supported in part by
 - the US National Science Foundation
