@@ -53,6 +53,7 @@ These materials may be freely used and distributed, provided that attribution to
 ## Acknowledgments
 
 This project was supported in part by
-- the US National Science Foundation
+- The Red Hat Collaboratory at Boston University
+- The US National Science Foundation
 - Honda Research Institute Europe GmbH and BU Hariri Institute Research Incubation Award 
-- the Boston University Red Hat Collaboratory
+  
