@@ -7,7 +7,9 @@ This folder contains accompanying materials to our work entitled *Understanding 
 - GitHub Dependabot
 - OWASP Dependency Check
 
-In the subfolders, the related outputs and results can be found. 
+In the subfolders, the related output screenshots can be found. 
+The writeup, ["SCA Tools Overview"](SCA_Tools_Overview.md) by Pranet Sharma, lays out a summary of tools' workflow, and provides output screenshots for the developers who would like to gain some insights about the selected tools.
+
 
 This work has been supported by the Red Hat Collaboratory, project number 2024-01-RH03.
 
