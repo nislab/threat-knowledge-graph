@@ -31,6 +31,19 @@ With the embedded knowledge graph, we can evaluate its quality and prediction ca
 
 These materials may be freely used and distributed, provided that attribution to this original source is acknowledged. If you use the resources in this repository, we kindly ask that you refer to the following work:
 
+- S. Simsek, Z. Shi, H. Shia, D. Medina and D. Starobinski, "Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database," in *2024 AACM SIGSAC Conference on Computer and Communications Security (CCS ’24)* October 14–18, 2024, Salt Lake City, UT, USA.
+    ```
+    @inproceedings{simsek2024correctcvecwe,
+    title={Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database},
+    author={Simsek, Sevval and Shi, Zhenpeng and Xia, Howell and Medina, David Sastre and Starobinski, David},
+    booktitle={2024 AACM SIGSAC Conference on Computer and Communications Security (CCS ’24)},
+    year={2024},
+    organization={ACM},
+    howpublished={https://doi.org/10.1145/3658644.3691375}
+    }
+    ```
+  
+
 - Z. Shi, N. Matyunin, K. Graffi, and D. Starobinski, “Uncovering product vulnerabilities with threat knowledge graphs,” in *2022 IEEE Secure Development Conference (SecDev)*. IEEE, 2022, pp. 84–90.
     ```
     @inproceedings{shi2022uncovering,
