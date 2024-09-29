@@ -1,6 +1,6 @@
 # Threat Knowledge Graph
 
-This repository contains accompanying materials to our work entitled [*Uncovering Product Vulnerabilities with Threat Knowledge Graphs*](https://ieeexplore.ieee.org/abstract/document/9973028). In this work, we generate a **threat knowledge graph** from public threat databases, including Common Platform Enumeration (CPE), Common Vulnerabilities and Exposures (CVE), and Common Weakness Enumeration (CWE). Through knowledge graph embedding, we are able to uncover the CVE-CPE and CVE-CWE associations that might exist but are not known yet.
+This repository contains accompanying materials to our works entitled [*Uncovering Product Vulnerabilities with Threat Knowledge Graphs*](https://ieeexplore.ieee.org/abstract/document/9973028),[Understanding Similarities and Differences between Software Composition Analysis Tools](https://doi.org/10.1109/MSEC.2024.3410957) and [Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database](https://doi.org/10.1145/3658644.3691375). In this work, we generate a **threat knowledge graph** from public threat databases, including Common Platform Enumeration (CPE), Common Vulnerabilities and Exposures (CVE), and Common Weakness Enumeration (CWE). Through knowledge graph embedding, we are able to uncover the CVE-CPE and CVE-CWE associations that might exist but are not known yet.
 
 ## Overview
 
