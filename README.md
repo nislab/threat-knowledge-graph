@@ -4,11 +4,14 @@ This repository contains accompanying materials to our work entitled [*Uncoverin
 
 ## Overview
 
-This repository has four main folders: `/preprocess/`, `/threat_kg/`,  `/SCA/` and `/neo4j_import/`.
+This repository has four main folders: `/preprocess/`, `/threat_kg/`, `/kg_querying`, `/SCA/` and `/neo4j_import/`.
 
 The `/preprocess/` folder contains the document on pre-processing the CPE, CVE, and CWE databases from their original formats to CSV files. This pre-processing step is documented in `database_preprocessing.md`. The processed databases are saved in `/csv_file/`. Moreover, the code for pre-processing is provided under `/py_code/`.
 
+
 The `/threat_kg/` folder contains materials relevant to the threat knowledge graph, including generation, embedding, evaluation, and prediction. The details are documented in the Jupyter Notebook called `threat_knowledge_graph.ipynb`. Under the `/saved/` folder, we also save a few important files during this process for reuse, such as the knowledge graph as a list of triples.
+
+The `/kg_querying` folder contains materials on the tutorial that elaborate on the knowledge graph embeddings, including categorization of erroneous (removed) mappings, querying the KG for CVE-CWE mapping queries, and method evaluations. 
 
 The `/SCA/` folder contains materials relevant to the Software Composition Analysis (SCA) Tools usage overview, the outputs from the chosen software for the selected SCA tools and references. 
 
