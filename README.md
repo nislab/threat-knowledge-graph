@@ -1,11 +1,11 @@
 # Threat Knowledge Graph
 
-This repository contains accompanying materials to our works entitled [*Uncovering Product Vulnerabilities with Threat Knowledge Graphs*](https://ieeexplore.ieee.org/abstract/document/9973028),[Understanding Similarities and Differences between Software Composition Analysis Tools](https://doi.org/10.1109/MSEC.2024.3410957) and [Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database](https://doi.org/10.1145/3658644.3691375). 
+This repository contains accompanying materials to our works entitled [*Uncovering Product Vulnerabilities with Threat Knowledge Graphs*](https://ieeexplore.ieee.org/abstract/document/9973028) and [Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database](https://doi.org/10.1145/3658644.3691375). 
 In our knowledge graph research, we generate a **threat knowledge graph** from public threat databases, including Common Platform Enumeration (CPE), Common Vulnerabilities and Exposures (CVE), and Common Weakness Enumeration (CWE). Through knowledge graph embedding, we are able to uncover the CVE-CPE and CVE-CWE associations that might exist but are not known yet. Moreover, using the embedding querying, we predict top N CWE mappings for CVE, and categorize erroneous mappings based on knowledge graph evaluation metrics such as mean rank, mean reciprocal rank, and hits@N.
 
 ## Overview
 
-This repository has four main folders: `/preprocess/`, `/threat_kg/`, `/kg_querying`, `/SCA/` and `/neo4j_import/`.
+This repository has four main folders: `/preprocess/`, `/threat_kg/`, `/kg_querying` and `/neo4j_import/`.
 
 The `/preprocess/` folder contains the document on pre-processing the CPE, CVE, and CWE databases from their original formats to CSV files. This pre-processing step is documented in `database_preprocessing.md`. The processed databases are saved in `/csv_file/`. Moreover, the code for pre-processing is provided under `/py_code/`.
 
@@ -13,8 +13,6 @@ The `/preprocess/` folder contains the document on pre-processing the CPE, CVE, 
 The `/threat_kg/` folder contains materials relevant to the threat knowledge graph, including generation, embedding, evaluation, and prediction. The details are documented in the Jupyter Notebook called `threat_knowledge_graph.ipynb`. Under the `/saved/` folder, we also save a few important files during this process for reuse, such as the knowledge graph as a list of triples.
 
 The `/kg_querying` folder contains materials on the tutorial that elaborate on the knowledge graph embeddings, including categorization of erroneous (removed) mappings, querying the KG for CVE-CWE mapping queries, and method evaluations. 
-
-The `/SCA/` folder contains materials relevant to the Software Composition Analysis (SCA) Tools usage overview, the outputs from the chosen software for the selected SCA tools and references. 
 
 The `/neo4j_import/` folder contains the document on importing the knowledge graph to [Neo4j Graph Database](https://neo4j.com/) for visualization and query. This process is detailed in `threat_kg_with_neo4j.md`. The knowledge graph is stored as a set of CSV files under `/files/`, such that it can be easily imported into Neo4j.
 
@@ -68,15 +66,7 @@ These materials may be freely used and distributed, provided that attribution to
     year={2023}
     }
     ```
-- P. Sharma, Z. Shi, S. Simsek, D. Starobinski and D. S. Medina, "Understanding Similarities and Differences between Software Composition Analysis Tools", in 2024 IEEE Security and Privacy (S&P) Magazine, 2024.
-    ```
-    @article{sharma2024understanding,
-    title={Understanding Similarities and Differences between Software Composition Analysis Tools},
-    author={Sharma, Pranet and Shi, Zhenpeng and Simsek, Sevval and Medina, David Sastre and Starobinski, David},
-    journal={IEEE Security and Privacy, https://doi.org/10.1109/MSEC.2024.3410957},
-    year={2024}
-    }
-    ```
+    
 ## Acknowledgments
 
 This project was supported in part by
