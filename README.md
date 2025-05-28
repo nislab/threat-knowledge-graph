@@ -1,11 +1,13 @@
 # Threat Knowledge Graph
 
-This repository contains accompanying materials to our works entitled [*Uncovering Product Vulnerabilities with Threat Knowledge Graphs*](https://ieeexplore.ieee.org/abstract/document/9973028) and [Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database](https://doi.org/10.1145/3658644.3691375). 
+This repository contains accompanying materials to our works entitled [Fixing Invalid CVE-CWE Mappings in Threat Databases](), [*Uncovering Product Vulnerabilities with Threat Knowledge Graphs*](https://ieeexplore.ieee.org/abstract/document/9973028) and [Poster: Analyzing and Correcting Inaccurate CVE-CWE Mappings in the National Vulnerability Database](https://doi.org/10.1145/3658644.3691375). 
 In our knowledge graph research, we generate a **threat knowledge graph** from public threat databases, including Common Platform Enumeration (CPE), Common Vulnerabilities and Exposures (CVE), and Common Weakness Enumeration (CWE). Through knowledge graph embedding, we are able to uncover the CVE-CPE and CVE-CWE associations that might exist but are not known yet. Moreover, using the embedding querying, we predict top N CWE mappings for CVE, and categorize erroneous mappings based on knowledge graph evaluation metrics such as mean rank, mean reciprocal rank, and hits@N.
 
 ## Overview
 
-This repository has four main folders: `/preprocess/`, `/threat_kg/`, `/kg_querying` and `/neo4j_import/`.
+This repository has five main folders: `/FixV2W/`, `/preprocess/`, `/threat_kg/`, `/kg_querying` and `/neo4j_import/`.
+
+The `/FixV2W/`, folder contains the documents on applying knowledge graph querying to correct invalid CVE-CWE mappings in the National Vulnerability Database. The accompanying materials include preprocessed CVE-CWE mappings, CWE-1003 list, and others. We provide several versions of the FixV2W tutorial which is explained in the folder.
 
 The `/preprocess/` folder contains the document on pre-processing the CPE, CVE, and CWE databases from their original formats to CSV files. This pre-processing step is documented in `database_preprocessing.md`. The processed databases are saved in `/csv_file/`. Moreover, the code for pre-processing is provided under `/py_code/`.
 
