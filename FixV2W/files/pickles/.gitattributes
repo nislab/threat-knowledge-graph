@@ -1,0 +1,5 @@
+kg_demo_model_DistMult_aug2021.pkl filter=lfs diff=lfs merge=lfs -text
+kg_demo_model_transe_aug2021.pkl filter=lfs diff=lfs merge=lfs -text
+kg_demo_model_ComplEx_aug2021.pkl filter=lfs diff=lfs merge=lfs -text
+PATTERN filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
