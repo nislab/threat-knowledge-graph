@@ -22,9 +22,9 @@ First and foremost, we are starting with importing the libraries as well as rest
 
 ```python
 from ampligraph.latent_features import restore_model
-model_transe = restore_model('../files/kg_demo_model_transe_aug2021.pkl')
-#model_transe = restore_model('../files/kg_demo_model_distmult_aug2021.pkl')
-#model_transe = restore_model('../files/kg_demo_model_complex_aug2021.pkl')
+model_transe = restore_model('../files/pickles/kg_demo_model_transe_aug2021.pkl')
+#model_transe = restore_model('../files/pickles/kg_demo_model_distmult_aug2021.pkl')
+#model_transe = restore_model('../files/pickles/kg_demo_model_complex_aug2021.pkl')
 ```
 
 On top of the embedding model, we need some of the datasets so that we can process them to use relationships and create query sets. These datasets include the CWE View list, CWE Category list, and CWE relationships provided in the MITRE CWE website. CWE-1003 list is the subset of CWE used in root cause mappings of vulnerabilities in the NVD. NVD exclusively uses this list therefore all of our predictions are within this list to match the validation set.
