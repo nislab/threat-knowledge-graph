@@ -1,0 +1,317 @@
+ID,Name,Status,Has_Member
+CWE-1001,"""SFP Secondary Cluster: Use of an Improper API""",Incomplete,CWE-111;CWE-227;CWE-242;CWE-245;CWE-246;CWE-382;CWE-383;CWE-432;CWE-439;CWE-440;CWE-474;CWE-477;CWE-479;CWE-558;CWE-572;CWE-573;CWE-574;CWE-575;CWE-576;CWE-577;CWE-578;CWE-586;CWE-589;CWE-617;CWE-676;CWE-684;CWE-695;CWE-758
+CWE-1002,"""SFP Secondary Cluster: Unexpected Entry Points""",Incomplete,CWE-489;CWE-491;CWE-493;CWE-500;CWE-531;CWE-568;CWE-580;CWE-582;CWE-583;CWE-608;CWE-766
+CWE-1005,"""7PK - Input Validation and Representation""",Draft,CWE-20;CWE-77;CWE-79;CWE-89;CWE-99
+CWE-1006,"""Bad Coding Practices""",Draft,CWE-478;CWE-487;CWE-489;CWE-546;CWE-547;CWE-561;CWE-562;CWE-563;CWE-581;CWE-586;CWE-605;CWE-621;CWE-627;CWE-628;CWE-694;CWE-1041;CWE-1043;CWE-1044;CWE-1045;CWE-1046;CWE-1048;CWE-1049;CWE-1050;CWE-1063;CWE-1065;CWE-1066;CWE-1067;CWE-1070;CWE-1071;CWE-1072;CWE-1073;CWE-1079;CWE-1082;CWE-1084;CWE-1085;CWE-1087;CWE-1089;CWE-1091;CWE-1092;CWE-1094;CWE-1097;CWE-1098;CWE-1099;CWE-1101;CWE-1102;CWE-1103;CWE-1104;CWE-1106;CWE-1107;CWE-1108;CWE-1109;CWE-1113;CWE-1114;CWE-1115;CWE-1116;CWE-1117;CWE-1126;CWE-1127;CWE-1235
+CWE-1009,"""Audit""",Draft,CWE-117;CWE-223;CWE-224;CWE-532;CWE-778;CWE-779
+CWE-1010,"""Authenticate Actors""",Draft,CWE-258;CWE-259;CWE-262;CWE-263;CWE-287;CWE-288;CWE-289;CWE-290;CWE-291;CWE-293;CWE-294;CWE-301;CWE-302;CWE-303;CWE-304;CWE-305;CWE-306;CWE-307;CWE-308;CWE-322;CWE-521;CWE-593;CWE-603;CWE-620;CWE-640;CWE-798;CWE-836;CWE-916
+CWE-1011,"""Authorize Actors""",Draft,CWE-114;CWE-15;CWE-219;CWE-220;CWE-266;CWE-267;CWE-268;CWE-269;CWE-270;CWE-271;CWE-272;CWE-273;CWE-274;CWE-276;CWE-277;CWE-279;CWE-280;CWE-281;CWE-282;CWE-283;CWE-284;CWE-285;CWE-286;CWE-300;CWE-341;CWE-359;CWE-403;CWE-419;CWE-420;CWE-425;CWE-426;CWE-434;CWE-527;CWE-528;CWE-529;CWE-530;CWE-538;CWE-551;CWE-552;CWE-566;CWE-639;CWE-642;CWE-647;CWE-653;CWE-656;CWE-668;CWE-669;CWE-671;CWE-673;CWE-708;CWE-732;CWE-770;CWE-782;CWE-827;CWE-862;CWE-863;CWE-921;CWE-923;CWE-939;CWE-942
+CWE-1012,"""Cross Cutting""",Draft,CWE-208;CWE-392;CWE-460;CWE-544;CWE-602;CWE-703;CWE-754;CWE-784;CWE-807
+CWE-1013,"""Encrypt Data""",Draft,CWE-256;CWE-257;CWE-260;CWE-261;CWE-311;CWE-312;CWE-313;CWE-314;CWE-315;CWE-316;CWE-317;CWE-318;CWE-319;CWE-321;CWE-323;CWE-324;CWE-325;CWE-326;CWE-327;CWE-328;CWE-330;CWE-331;CWE-332;CWE-333;CWE-334;CWE-335;CWE-336;CWE-337;CWE-338;CWE-339;CWE-347;CWE-522;CWE-523;CWE-757;CWE-759;CWE-760;CWE-780;CWE-922
+CWE-1014,"""Identify Actors""",Draft,CWE-295;CWE-296;CWE-297;CWE-298;CWE-299;CWE-345;CWE-346;CWE-370;CWE-441;CWE-599;CWE-940;CWE-941
+CWE-1015,"""Limit Access""",Draft,CWE-201;CWE-209;CWE-212;CWE-243;CWE-250;CWE-610;CWE-611;CWE-73
+CWE-1016,"""Limit Exposure""",Draft,CWE-210;CWE-211;CWE-214;CWE-550;CWE-829;CWE-830
+CWE-1017,"""Lock Computer""",Draft,CWE-645
+CWE-1018,"""Manage User Sessions""",Draft,CWE-384;CWE-488;CWE-579;CWE-6;CWE-613;CWE-841
+CWE-1019,"""Validate Inputs""",Draft,CWE-138;CWE-150;CWE-20;CWE-349;CWE-352;CWE-472;CWE-473;CWE-502;CWE-59;CWE-601;CWE-641;CWE-643;CWE-652;CWE-74;CWE-75;CWE-76;CWE-77;CWE-78;CWE-79;CWE-790;CWE-791;CWE-792;CWE-793;CWE-794;CWE-795;CWE-796;CWE-797;CWE-88;CWE-89;CWE-90;CWE-91;CWE-93;CWE-94;CWE-943;CWE-95;CWE-96;CWE-97;CWE-98;CWE-99
+CWE-1020,"""Verify Message Integrity""",Draft,CWE-353;CWE-354;CWE-390;CWE-391;CWE-494;CWE-565;CWE-649;CWE-707;CWE-755;CWE-924
+CWE-1027,"""OWASP Top Ten 2017 Category A1 - Injection""",Incomplete,CWE-77;CWE-78;CWE-88;CWE-89;CWE-90;CWE-91;CWE-564;CWE-917;CWE-943
+CWE-1028,"""OWASP Top Ten 2017 Category A2 - Broken Authentication""",Incomplete,CWE-287;CWE-256;CWE-308;CWE-384;CWE-522;CWE-523;CWE-613;CWE-620;CWE-640
+CWE-1029,"""OWASP Top Ten 2017 Category A3 - Sensitive Data Exposure""",Incomplete,CWE-220;CWE-295;CWE-311;CWE-312;CWE-319;CWE-320;CWE-325;CWE-326;CWE-327;CWE-328;CWE-359
+CWE-1030,"""OWASP Top Ten 2017 Category A4 - XML External Entities (XXE)""",Incomplete,CWE-611;CWE-776
+CWE-1031,"""OWASP Top Ten 2017 Category A5 - Broken Access Control""",Incomplete,CWE-22;CWE-284;CWE-285;CWE-425;CWE-639
+CWE-1032,"""OWASP Top Ten 2017 Category A6 - Security Misconfiguration""",Incomplete,CWE-16;CWE-209;CWE-548
+CWE-1033,"""OWASP Top Ten 2017 Category A7 - Cross-Site Scripting (XSS)""",Incomplete,CWE-79
+CWE-1034,"""OWASP Top Ten 2017 Category A8 - Insecure Deserialization""",Incomplete,CWE-502
+CWE-1035,"""OWASP Top Ten 2017 Category A9 - Using Components with Known Vulnerabilities""",Incomplete,
+CWE-1036,"""OWASP Top Ten 2017 Category A10 - Insufficient Logging & Monitoring""",Incomplete,CWE-223;CWE-778
+CWE-1129,"""CISQ Quality Measures (2016) - Reliability""",Draft,CWE-120;CWE-252;CWE-396;CWE-397;CWE-456;CWE-674;CWE-704;CWE-772;CWE-788;CWE-1045;CWE-1047;CWE-1051;CWE-1056;CWE-1058;CWE-1062;CWE-1065;CWE-1066;CWE-1069;CWE-1070;CWE-1077;CWE-1079;CWE-1082;CWE-1083;CWE-1087;CWE-1088;CWE-1097;CWE-1096;CWE-1098
+CWE-1130,"""CISQ Quality Measures (2016) - Maintainability""",Draft,CWE-561;CWE-1041;CWE-1044;CWE-1047;CWE-1048;CWE-1052;CWE-1054;CWE-1055;CWE-1064;CWE-1074;CWE-1075;CWE-1080;CWE-766;CWE-1084;CWE-1085;CWE-1086;CWE-1090;CWE-1092;CWE-1095;CWE-1121
+CWE-1131,"""CISQ Quality Measures (2016) - Security""",Draft,CWE-22;CWE-78;CWE-79;CWE-89;CWE-99;CWE-120;CWE-129;CWE-134;CWE-252;CWE-327;CWE-396;CWE-397;CWE-434;CWE-456;CWE-606;CWE-667;CWE-672;CWE-681;CWE-772;CWE-789;CWE-798;CWE-835
+CWE-1132,"""CISQ Quality Measures (2016) - Performance Efficiency""",Draft,CWE-1042;CWE-1043;CWE-1046;CWE-1049;CWE-1050;CWE-1057;CWE-1060;CWE-1063;CWE-1067;CWE-1072;CWE-1073;CWE-1089;CWE-1091;CWE-1094
+CWE-1134,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 00. Input Validation and Data Sanitization (IDS)""",Stable,CWE-116;CWE-180;CWE-289;CWE-117;CWE-144;CWE-150;CWE-409;CWE-134;CWE-78;CWE-182
+CWE-1135,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 01. Declarations and Initialization (DCL)""",Stable,CWE-665
+CWE-1136,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 02. Expressions (EXP)""",Stable,CWE-252;CWE-476;CWE-597;CWE-595
+CWE-1137,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 03. Numeric Types and Operations (NUM)""",Stable,CWE-190;CWE-191;CWE-197;CWE-369;CWE-681;CWE-682
+CWE-1138,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 04. Characters and Strings (STR)""",Stable,CWE-838
+CWE-1139,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 05. Object Orientation (OBJ)""",Stable,CWE-374;CWE-375;CWE-486;CWE-491;CWE-492;CWE-498;CWE-500;CWE-766
+CWE-1140,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 06. Methods (MET)""",Stable,CWE-617;CWE-589;CWE-697;CWE-581;CWE-573;CWE-586;CWE-583;CWE-568
+CWE-1141,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 07. Exceptional Behavior (ERR)""",Stable,CWE-460;CWE-584;CWE-459;CWE-248;CWE-705;CWE-754;CWE-703;CWE-397;CWE-382
+CWE-1142,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 08. Visibility and Atomicity (VNA)""",Stable,CWE-362;CWE-366;CWE-413;CWE-567;CWE-662;CWE-667
+CWE-1143,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 09. Locking (LCK)""",Stable,CWE-412;CWE-609;CWE-667;CWE-820
+CWE-1144,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 10. Thread APIs (THI)""",Stable,CWE-572
+CWE-1145,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 11. Thread Pools (TPS)""",Stable,CWE-392;CWE-405;CWE-410
+CWE-1146,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 12. Thread-Safety Miscellaneous (TSM)""",Stable,
+CWE-1147,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 13. Input Output (FIO)""",Stable,CWE-67;CWE-180;CWE-198;CWE-276;CWE-279;CWE-359;CWE-377;CWE-404;CWE-405;CWE-459;CWE-532;CWE-647;CWE-705;CWE-732;CWE-770
+CWE-1148,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 14. Serialization (SER)""",Stable,CWE-319;CWE-400;CWE-499;CWE-502;CWE-770
+CWE-1149,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 15. Platform Security (SEC)""",Stable,CWE-266;CWE-272;CWE-732
+CWE-1150,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 16. Runtime Environment (ENV)""",Stable,CWE-349;CWE-732
+CWE-1151,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 17. Java Native Interface (JNI)""",Stable,CWE-111
+CWE-1152,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 49. Miscellaneous (MSC)""",Stable,CWE-259;CWE-311;CWE-327;CWE-330;CWE-332;CWE-336;CWE-337;CWE-400;CWE-401;CWE-770;CWE-798
+CWE-1153,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 50. Android (DRD)""",Stable,
+CWE-1155,"""SEI CERT C Coding Standard - Guidelines 01. Preprocessor (PRE)""",Stable,
+CWE-1156,"""SEI CERT C Coding Standard - Guidelines 02. Declarations and Initialization (DCL)""",Stable,CWE-562
+CWE-1157,"""SEI CERT C Coding Standard - Guidelines 03. Expressions (EXP)""",Stable,CWE-758;CWE-908;CWE-476;CWE-690;CWE-628;CWE-685;CWE-686;CWE-843;CWE-704;CWE-119;CWE-125;CWE-480;CWE-481
+CWE-1158,"""SEI CERT C Coding Standard - Guidelines 04. Integers (INT)""",Stable,CWE-190;CWE-131;CWE-191;CWE-680;CWE-192;CWE-197;CWE-681;CWE-704;CWE-194;CWE-195;CWE-369;CWE-682;CWE-758;CWE-587
+CWE-1159,"""SEI CERT C Coding Standard - Guidelines 05. Floating Point (FLP)""",Stable,CWE-682;CWE-391;CWE-681;CWE-197
+CWE-1160,"""SEI CERT C Coding Standard - Guidelines 06. Arrays (ARR)""",Stable,CWE-119;CWE-129;CWE-786;CWE-123;CWE-125;CWE-758;CWE-469;CWE-121;CWE-805;CWE-468
+CWE-1161,"""SEI CERT C Coding Standard - Guidelines 07. Characters and Strings (STR)""",Stable,CWE-120;CWE-119;CWE-121;CWE-122;CWE-123;CWE-125;CWE-676;CWE-170;CWE-704
+CWE-1162,"""SEI CERT C Coding Standard - Guidelines 08. Memory Management (MEM)""",Stable,CWE-416;CWE-672;CWE-758;CWE-666;CWE-415;CWE-401;CWE-404;CWE-459;CWE-771;CWE-772;CWE-590;CWE-131;CWE-680;CWE-467;CWE-789;CWE-190
+CWE-1163,"""SEI CERT C Coding Standard - Guidelines 09. Input Output (FIO)""",Stable,CWE-134;CWE-20;CWE-67;CWE-197;CWE-241;CWE-664;CWE-404;CWE-459;CWE-772;CWE-773;CWE-775;CWE-771;CWE-910;CWE-666;CWE-672;CWE-758;CWE-686;CWE-685
+CWE-1165,"""SEI CERT C Coding Standard - Guidelines 10. Environment (ENV)""",Stable,CWE-705;CWE-676;CWE-78;CWE-88
+CWE-1166,"""SEI CERT C Coding Standard - Guidelines 11. Signals (SIG)""",Stable,CWE-479;CWE-662
+CWE-1167,"""SEI CERT C Coding Standard - Guidelines 12. Error Handling (ERR)""",Stable,CWE-456;CWE-391;CWE-252;CWE-253;CWE-676;CWE-758
+CWE-1168,"""SEI CERT C Coding Standard - Guidelines 13. Application Programming Interfaces (API)""",Stable,
+CWE-1169,"""SEI CERT C Coding Standard - Guidelines 14. Concurrency (CON)""",Stable,CWE-667;CWE-366;CWE-676;CWE-330;CWE-377
+CWE-1170,"""SEI CERT C Coding Standard - Guidelines 48. Miscellaneous (MSC)""",Stable,CWE-327;CWE-330;CWE-338;CWE-676;CWE-331;CWE-758
+CWE-1171,"""SEI CERT C Coding Standard - Guidelines 50. POSIX (POS)""",Stable,CWE-170;CWE-242;CWE-363;CWE-696;CWE-273;CWE-667;CWE-391;CWE-252;CWE-253
+CWE-1172,"""SEI CERT C Coding Standard - Guidelines 51. Microsoft Windows (WIN) """,Stable,CWE-762;CWE-590
+CWE-1175,"""SEI CERT Oracle Secure Coding Standard for Java - Guidelines 18. Concurrency (CON)""",Stable,
+CWE-1179,"""SEI CERT Perl Coding Standard - Guidelines 01. Input Validation and Data Sanitization (IDS)""",Stable,CWE-22;CWE-134;CWE-129;CWE-789;CWE-116;CWE-77;CWE-95
+CWE-1180,"""SEI CERT Perl Coding Standard - Guidelines 02. Declarations and Initialization (DCL)""",Stable,CWE-628;CWE-456;CWE-457;CWE-477
+CWE-1181,"""SEI CERT Perl Coding Standard - Guidelines 03. Expressions (EXP)""",Stable,CWE-394;CWE-783;CWE-477;CWE-248;CWE-391;CWE-460;CWE-705;CWE-754;CWE-252;CWE-690;CWE-628;CWE-375;CWE-597
+CWE-1182,"""SEI CERT Perl Coding Standard - Guidelines 04. Integers (INT)""",Stable,CWE-189
+CWE-1183,"""SEI CERT Perl Coding Standard - Guidelines 05. Strings (STR)""",Stable,
+CWE-1184,"""SEI CERT Perl Coding Standard - Guidelines 06. Object-Oriented Programming (OOP)""",Stable,CWE-767
+CWE-1185,"""SEI CERT Perl Coding Standard - Guidelines 07. File Input and Output (FIO)""",Stable,CWE-59
+CWE-1186,"""SEI CERT Perl Coding Standard - Guidelines 50. Miscellaneous (MSC)""",Stable,CWE-561;CWE-563
+CWE-1195,"""Manufacturing and Life Cycle Management Concerns""",Draft,CWE-1248;CWE-1266;CWE-1269;CWE-1273;CWE-1278;CWE-1297
+CWE-1196,"""Security Flow Issues""",Draft,CWE-1190;CWE-1193;CWE-1264;CWE-1274;CWE-1283;CWE-1310;CWE-1326;CWE-1328
+CWE-1197,"""Integration Issues""",Draft,CWE-1276
+CWE-1198,"""Privilege Separation and Access Control Issues""",Draft,CWE-276;CWE-441;CWE-1189;CWE-1192;CWE-1220;CWE-1242;CWE-1260;CWE-1262;CWE-1267;CWE-1268;CWE-1280;CWE-1294;CWE-1299;CWE-1302;CWE-1303;CWE-1314;CWE-1318;CWE-1334
+CWE-1199,"""General Circuit and Logic Design Concerns""",Draft,CWE-1209;CWE-1221;CWE-1223;CWE-1224;CWE-1231;CWE-1232;CWE-1233;CWE-1234;CWE-1245;CWE-1253;CWE-1254;CWE-1261;CWE-1298
+CWE-1201,"""Core and Compute Issues""",Draft,CWE-1252;CWE-1281;CWE-1302
+CWE-1202,"""Memory and Storage Issues""",Draft,CWE-226;CWE-1246;CWE-1251;CWE-1257;CWE-1282
+CWE-1203,"""Peripherals, On-chip Fabric, and Interface/IO Problems""",Draft,CWE-1311;CWE-1312;CWE-1315;CWE-1316;CWE-1317;CWE-1319;CWE-1331
+CWE-1205,"""Security Primitives and Cryptography Issues""",Draft,CWE-203;CWE-325;CWE-1240;CWE-1241;CWE-1279
+CWE-1206,"""Power, Clock, and Reset Concerns""",Draft,CWE-1232;CWE-1247;CWE-1255;CWE-1256;CWE-1271;CWE-1304;CWE-1314;CWE-1320;CWE-1332;CWE-1338
+CWE-1207,"""Debug and Test Problems""",Draft,CWE-1191;CWE-1234;CWE-1243;CWE-1244;CWE-1258;CWE-1272;CWE-1291;CWE-1295;CWE-1296;CWE-1313;CWE-1323;CWE-1324
+CWE-1208,"""Cross-Cutting Problems""",Draft,CWE-440;CWE-1053;CWE-1263;CWE-1277;CWE-1278;CWE-1300;CWE-1301
+CWE-1210,"""Audit / Logging Errors""",Draft,CWE-117;CWE-222;CWE-223;CWE-224;CWE-532;CWE-778;CWE-779
+CWE-1211,"""Authentication Errors""",Draft,CWE-288;CWE-290;CWE-294;CWE-295;CWE-296;CWE-299;CWE-303;CWE-304;CWE-305;CWE-306;CWE-307;CWE-308;CWE-309;CWE-322;CWE-603;CWE-645;CWE-804;CWE-836
+CWE-1212,"""Authorization Errors""",Draft,CWE-425;CWE-551;CWE-612;CWE-639;CWE-939;CWE-842;CWE-1220
+CWE-1213,"""Random Number Issues""",Draft,CWE-331;CWE-334;CWE-335;CWE-338;CWE-341;CWE-342;CWE-343;CWE-1241
+CWE-1214,"""Data Integrity Issues""",Draft,CWE-322;CWE-346;CWE-347;CWE-348;CWE-349;CWE-351;CWE-353;CWE-354;CWE-494;CWE-565;CWE-649;CWE-829;CWE-924
+CWE-1215,"""Data Validation Issues""",Draft,CWE-112;CWE-129;CWE-179;CWE-183;CWE-184;CWE-606;CWE-641;CWE-1173
+CWE-1216,"""Lockout Mechanism Errors""",Draft,CWE-645
+CWE-1217,"""User Session Errors""",Draft,CWE-488;CWE-613;CWE-841
+CWE-1218,"""Memory Buffer Errors""",Draft,CWE-120;CWE-123;CWE-124;CWE-125;CWE-131;CWE-786;CWE-787;CWE-788;CWE-805
+CWE-1219,"""File Handling Issues""",Draft,CWE-23;CWE-36;CWE-41;CWE-59;CWE-66;CWE-378;CWE-379;CWE-426;CWE-427;CWE-428
+CWE-1225,"""Documentation Issues""",Draft,CWE-1053;CWE-1068;CWE-1110;CWE-1111;CWE-1112;CWE-1118
+CWE-1226,"""Complexity Issues""",Draft,CWE-1043;CWE-1047;CWE-1055;CWE-1056;CWE-1060;CWE-1064;CWE-1074;CWE-1075;CWE-1080;CWE-1086;CWE-1095;CWE-1119;CWE-1121;CWE-1122;CWE-1123;CWE-1124;CWE-1125
+CWE-1227,"""Encapsulation Issues""",Draft,CWE-1054;CWE-1057;CWE-1062;CWE-1083;CWE-1090;CWE-1100;CWE-1105
+CWE-1228,"""API / Function Errors""",Draft,CWE-242;CWE-474;CWE-475;CWE-477;CWE-676;CWE-695;CWE-749
+CWE-1237,"""SFP Primary Cluster: Faulty Resource Release""",Incomplete,CWE-415;CWE-762;CWE-763
+CWE-1238,"""SFP Primary Cluster: Failure to Release Memory""",Incomplete,CWE-401
+CWE-1306,"""CISQ Quality Measures - Reliability""",Incomplete,CWE-119;CWE-170;CWE-252;CWE-390;CWE-394;CWE-404;CWE-424;CWE-459;CWE-476;CWE-480;CWE-484;CWE-562;CWE-595;CWE-662;CWE-665;CWE-672;CWE-681;CWE-682;CWE-703;CWE-704;CWE-758;CWE-835;CWE-908;CWE-1045;CWE-1051;CWE-1066;CWE-1070;CWE-1077;CWE-1079;CWE-1082;CWE-1083;CWE-1087;CWE-1088;CWE-1098
+CWE-1307,"""CISQ Quality Measures - Maintainability""",Incomplete,CWE-407;CWE-478;CWE-480;CWE-484;CWE-561;CWE-570;CWE-571;CWE-783;CWE-1041;CWE-1045;CWE-1047;CWE-1048;CWE-1051;CWE-1052;CWE-1054;CWE-1055;CWE-1062;CWE-1064;CWE-1074;CWE-1075;CWE-1079;CWE-1080;CWE-1084;CWE-1085;CWE-1086;CWE-1087;CWE-1090;CWE-1095
+CWE-1308,"""CISQ Quality Measures - Security""",Incomplete,CWE-22;CWE-77;CWE-89;CWE-90;CWE-91;CWE-99;CWE-119;CWE-129;CWE-134;CWE-252;CWE-404;CWE-424;CWE-434;CWE-477;CWE-480;CWE-502;CWE-570;CWE-571;CWE-606;CWE-611;CWE-643;CWE-652;CWE-662;CWE-665;CWE-672;CWE-681;CWE-682;CWE-732;CWE-778;CWE-783;CWE-789;CWE-79;CWE-798;CWE-835
+CWE-1309,"""CISQ Quality Measures - Efficiency""",Incomplete,CWE-404;CWE-424;CWE-1042;CWE-1043;CWE-1046;CWE-1049;CWE-1050;CWE-1057;CWE-1060;CWE-1067;CWE-1072;CWE-1073;CWE-1089;CWE-1091;CWE-1094
+CWE-133,"""String Errors""",Draft,CWE-134;CWE-135;CWE-597
+CWE-136,"""Type Errors""",Draft,CWE-681;CWE-843
+CWE-137,"""Data Neutralization Issues""",Draft,CWE-76;CWE-78;CWE-79;CWE-88;CWE-89;CWE-90;CWE-91;CWE-93;CWE-94;CWE-96;CWE-117;CWE-140;CWE-170;CWE-188;CWE-462;CWE-463;CWE-464;CWE-641;CWE-643;CWE-652;CWE-791;CWE-795;CWE-838;CWE-917;CWE-1236
+CWE-16,"""Configuration""",Obsolete,
+CWE-189,"""Numeric Errors""",Draft,CWE-128;CWE-190;CWE-191;CWE-192;CWE-193;CWE-197;CWE-198;CWE-369;CWE-681;CWE-839;CWE-1077
+CWE-19,"""Data Processing Errors""",Draft,CWE-130;CWE-166;CWE-167;CWE-168;CWE-178;CWE-182;CWE-186;CWE-229;CWE-233;CWE-237;CWE-241;CWE-409;CWE-471;CWE-472;CWE-601;CWE-611;CWE-624;CWE-625;CWE-776;CWE-1024
+CWE-199,"""Information Management Errors""",Draft,CWE-201;CWE-204;CWE-205;CWE-208;CWE-209;CWE-212;CWE-213;CWE-214;CWE-215;CWE-312;CWE-319;CWE-359;CWE-497;CWE-524;CWE-532;CWE-540;CWE-921;CWE-1230
+CWE-2,"""7PK - Environment""",Draft,CWE-11;CWE-12;CWE-13;CWE-14;CWE-5;CWE-6;CWE-7;CWE-8;CWE-9
+CWE-227,"""7PK - API Abuse""",Draft,CWE-242;CWE-243;CWE-244;CWE-245;CWE-246;CWE-248;CWE-250;CWE-251;CWE-252;CWE-558
+CWE-251,"""Often Misused: String Management""",Incomplete,
+CWE-254,"""7PK - Security Features""",Incomplete,CWE-256;CWE-258;CWE-259;CWE-260;CWE-261;CWE-272;CWE-284;CWE-285;CWE-330;CWE-359;CWE-798
+CWE-255,"""Credentials Management Errors""",Draft,CWE-256;CWE-257;CWE-260;CWE-261;CWE-262;CWE-263;CWE-324;CWE-521;CWE-523;CWE-549;CWE-620;CWE-640;CWE-798;CWE-916
+CWE-264,"""Permissions, Privileges, and Access Controls""",Obsolete,
+CWE-265,"""Privilege Issues""",Incomplete,CWE-243;CWE-250;CWE-266;CWE-267;CWE-268;CWE-270;CWE-272;CWE-273;CWE-274;CWE-280;CWE-501;CWE-580;CWE-648
+CWE-275,"""Permission Issues""",Draft,CWE-276;CWE-277;CWE-278;CWE-279;CWE-280;CWE-281;CWE-618;CWE-766;CWE-767
+CWE-310,"""Cryptographic Issues""",Draft,CWE-261;CWE-324;CWE-325;CWE-328;CWE-331;CWE-334;CWE-335;CWE-338;CWE-347;CWE-916;CWE-1240
+CWE-320,"""Key Management Errors""",Obsolete,CWE-321;CWE-322;CWE-323;CWE-324
+CWE-355,"""User Interface Security Issues""",Draft,CWE-317;CWE-356;CWE-357;CWE-447;CWE-448;CWE-449;CWE-450;CWE-549;CWE-1007;CWE-1021
+CWE-361,"""7PK - Time and State""",Incomplete,CWE-364;CWE-367;CWE-377;CWE-382;CWE-383;CWE-384;CWE-412
+CWE-371,"""State Issues""",Draft,CWE-15;CWE-372;CWE-374;CWE-375;CWE-1265
+CWE-387,"""Signal Errors""",Incomplete,CWE-364;CWE-432;CWE-828;CWE-831
+CWE-388,"""7PK - Errors""",Draft,CWE-391;CWE-395;CWE-396;CWE-397
+CWE-389,"""Error Conditions, Return Values, Status Codes""",Incomplete,CWE-209;CWE-248;CWE-252;CWE-253;CWE-390;CWE-391;CWE-392;CWE-393;CWE-394;CWE-395;CWE-396;CWE-397;CWE-544;CWE-584;CWE-600;CWE-617;CWE-756;CWE-1069
+CWE-398,"""7PK - Code Quality""",Draft,CWE-401;CWE-404;CWE-415;CWE-416;CWE-457;CWE-474;CWE-475;CWE-476;CWE-477
+CWE-399,"""Resource Management Errors""",Draft,CWE-73;CWE-403;CWE-410;CWE-470;CWE-502;CWE-619;CWE-641;CWE-694;CWE-763;CWE-770;CWE-771;CWE-772;CWE-826;CWE-908;CWE-909;CWE-910;CWE-911;CWE-914;CWE-915;CWE-920;CWE-1188
+CWE-411,"""Resource Locking Problems""",Draft,CWE-412;CWE-413;CWE-414;CWE-609;CWE-764;CWE-765;CWE-832;CWE-833
+CWE-417,"""Communication Channel Errors""",Draft,CWE-322;CWE-346;CWE-385;CWE-419;CWE-420;CWE-425;CWE-515;CWE-924;CWE-940;CWE-941
+CWE-429,"""Handler Errors""",Draft,CWE-430;CWE-431;CWE-432;CWE-433;CWE-434;CWE-479
+CWE-438,"""Behavioral Problems""",Draft,CWE-115;CWE-179;CWE-408;CWE-437;CWE-439;CWE-440;CWE-444;CWE-480;CWE-483;CWE-484;CWE-551;CWE-698;CWE-733;CWE-783;CWE-835;CWE-837;CWE-841;CWE-1025;CWE-1037
+CWE-452,"""Initialization and Cleanup Errors""",Draft,CWE-226;CWE-454;CWE-455;CWE-459;CWE-460;CWE-1051;CWE-1052;CWE-1188
+CWE-465,"""Pointer Issues""",Draft,CWE-466;CWE-467;CWE-468;CWE-469;CWE-476;CWE-587;CWE-588;CWE-763;CWE-822;CWE-823;CWE-824;CWE-825
+CWE-485,"""7PK - Encapsulation""",Draft,CWE-486;CWE-488;CWE-489;CWE-491;CWE-492;CWE-493;CWE-495;CWE-496;CWE-497;CWE-501
+CWE-557,"""Concurrency Issues""",Draft,CWE-363;CWE-364;CWE-365;CWE-366;CWE-367;CWE-368;CWE-386;CWE-421;CWE-567;CWE-585;CWE-663;CWE-820;CWE-821;CWE-1058;CWE-1088
+CWE-569,"""Expression Issues""",Draft,CWE-480;CWE-570;CWE-571;CWE-588;CWE-595;CWE-783
+CWE-712,"""OWASP Top Ten 2007 Category A1 - Cross Site Scripting (XSS)""",Obsolete,CWE-79
+CWE-713,"""OWASP Top Ten 2007 Category A2 - Injection Flaws""",Obsolete,CWE-77;CWE-89;CWE-90;CWE-91;CWE-93
+CWE-714,"""OWASP Top Ten 2007 Category A3 - Malicious File Execution""",Obsolete,CWE-434;CWE-78;CWE-95;CWE-98
+CWE-715,"""OWASP Top Ten 2007 Category A4 - Insecure Direct Object Reference""",Obsolete,CWE-22;CWE-472;CWE-639
+CWE-716,"""OWASP Top Ten 2007 Category A5 - Cross Site Request Forgery (CSRF)""",Obsolete,CWE-352
+CWE-717,"""OWASP Top Ten 2007 Category A6 - Information Leakage and Improper Error Handling""",Obsolete,CWE-200;CWE-203;CWE-209;CWE-215
+CWE-718,"""OWASP Top Ten 2007 Category A7 - Broken Authentication and Session Management""",Obsolete,CWE-287;CWE-301;CWE-522
+CWE-719,"""OWASP Top Ten 2007 Category A8 - Insecure Cryptographic Storage""",Obsolete,CWE-311;CWE-321;CWE-325;CWE-326
+CWE-720,"""OWASP Top Ten 2007 Category A9 - Insecure Communications""",Obsolete,CWE-311;CWE-321;CWE-325;CWE-326
+CWE-721,"""OWASP Top Ten 2007 Category A10 - Failure to Restrict URL Access""",Obsolete,CWE-285;CWE-288;CWE-425
+CWE-722,"""OWASP Top Ten 2004 Category A1 - Unvalidated Input""",Obsolete,CWE-102;CWE-103;CWE-104;CWE-106;CWE-109;CWE-120;CWE-166;CWE-167;CWE-179;CWE-180;CWE-181;CWE-182;CWE-183;CWE-20;CWE-425;CWE-472;CWE-601;CWE-602;CWE-77;CWE-79;CWE-89
+CWE-723,"""OWASP Top Ten 2004 Category A2 - Broken Access Control""",Obsolete,CWE-22;CWE-266;CWE-268;CWE-275;CWE-283;CWE-284;CWE-285;CWE-330;CWE-41;CWE-425;CWE-525;CWE-551;CWE-556;CWE-639;CWE-708;CWE-73;CWE-9
+CWE-724,"""OWASP Top Ten 2004 Category A3 - Broken Authentication and Session Management""",Obsolete,CWE-255;CWE-259;CWE-287;CWE-296;CWE-298;CWE-302;CWE-304;CWE-307;CWE-309;CWE-345;CWE-384;CWE-521;CWE-522;CWE-525;CWE-613;CWE-620;CWE-640;CWE-798
+CWE-725,"""OWASP Top Ten 2004 Category A4 - Cross-Site Scripting (XSS) Flaws""",Obsolete,CWE-644;CWE-79
+CWE-726,"""OWASP Top Ten 2004 Category A5 - Buffer Overflows""",Obsolete,CWE-119;CWE-120;CWE-134
+CWE-727,"""OWASP Top Ten 2004 Category A6 - Injection Flaws""",Obsolete,CWE-117;CWE-74;CWE-77;CWE-78;CWE-89;CWE-91;CWE-95;CWE-98
+CWE-728,"""OWASP Top Ten 2004 Category A7 - Improper Error Handling""",Obsolete,CWE-203;CWE-209;CWE-228;CWE-252;CWE-389;CWE-390;CWE-391;CWE-394;CWE-636;CWE-7
+CWE-729,"""OWASP Top Ten 2004 Category A8 - Insecure Storage""",Obsolete,CWE-14;CWE-226;CWE-261;CWE-311;CWE-321;CWE-326;CWE-327;CWE-539;CWE-591;CWE-598
+CWE-730,"""OWASP Top Ten 2004 Category A9 - Denial of Service""",Obsolete,CWE-170;CWE-248;CWE-369;CWE-382;CWE-400;CWE-401;CWE-404;CWE-405;CWE-410;CWE-412;CWE-476;CWE-674
+CWE-731,"""OWASP Top Ten 2004 Category A10 - Insecure Configuration Management""",Obsolete,CWE-209;CWE-215;CWE-219;CWE-275;CWE-295;CWE-5;CWE-555;CWE-6;CWE-7;CWE-8;CWE-9;CWE-459;CWE-489;CWE-11;CWE-12;CWE-13;CWE-520;CWE-554;CWE-556;CWE-526;CWE-527;CWE-528;CWE-529;CWE-530;CWE-531;CWE-532;CWE-540;CWE-541;CWE-548;CWE-552
+CWE-735,"""CERT C Secure Coding Standard (2008) Chapter 2 - Preprocessor (PRE)""",Obsolete,CWE-684
+CWE-736,"""CERT C Secure Coding Standard (2008) Chapter 3 - Declarations and Initialization (DCL)""",Obsolete,CWE-547;CWE-628;CWE-686
+CWE-737,"""CERT C Secure Coding Standard (2008) Chapter 4 - Expressions (EXP)""",Obsolete,CWE-467;CWE-468;CWE-476;CWE-628;CWE-704;CWE-783
+CWE-738,"""CERT C Secure Coding Standard (2008) Chapter 5 - Integers (INT)""",Obsolete,CWE-129;CWE-190;CWE-192;CWE-197;CWE-20;CWE-369;CWE-466;CWE-587;CWE-606;CWE-676;CWE-681;CWE-682
+CWE-739,"""CERT C Secure Coding Standard (2008) Chapter 6 - Floating Point (FLP)""",Obsolete,CWE-369;CWE-681;CWE-682;CWE-686
+CWE-740,"""CERT C Secure Coding Standard (2008) Chapter 7 - Arrays (ARR)""",Obsolete,CWE-119;CWE-129;CWE-467;CWE-469;CWE-665;CWE-805
+CWE-741,"""CERT C Secure Coding Standard (2008) Chapter 8 - Characters and Strings (STR)""",Obsolete,CWE-119;CWE-120;CWE-135;CWE-170;CWE-193;CWE-464;CWE-686;CWE-704;CWE-78;CWE-88
+CWE-742,"""CERT C Secure Coding Standard (2008) Chapter 9 - Memory Management (MEM)""",Obsolete,CWE-119;CWE-128;CWE-131;CWE-190;CWE-20;CWE-226;CWE-244;CWE-252;CWE-415;CWE-416;CWE-476;CWE-528;CWE-590;CWE-591;CWE-628;CWE-665;CWE-687;CWE-754
+CWE-743,"""CERT C Secure Coding Standard (2008) Chapter 10 - Input Output (FIO)""",Obsolete,CWE-119;CWE-134;CWE-22;CWE-241;CWE-276;CWE-279;CWE-362;CWE-367;CWE-37;CWE-379;CWE-38;CWE-39;CWE-391;CWE-403;CWE-404;CWE-41;CWE-552;CWE-59;CWE-62;CWE-64;CWE-65;CWE-67;CWE-675;CWE-676;CWE-686;CWE-732
+CWE-744,"""CERT C Secure Coding Standard (2008) Chapter 11 - Environment (ENV)""",Obsolete,CWE-119;CWE-426;CWE-462;CWE-705;CWE-78;CWE-88
+CWE-745,"""CERT C Secure Coding Standard (2008) Chapter 12 - Signals (SIG)""",Obsolete,CWE-479;CWE-662
+CWE-746,"""CERT C Secure Coding Standard (2008) Chapter 13 - Error Handling (ERR)""",Obsolete,CWE-20;CWE-391;CWE-544;CWE-676;CWE-705
+CWE-747,"""CERT C Secure Coding Standard (2008) Chapter 14 - Miscellaneous (MSC)""",Obsolete,CWE-14;CWE-176;CWE-20;CWE-330;CWE-480;CWE-482;CWE-561;CWE-563;CWE-570;CWE-571;CWE-697;CWE-704
+CWE-748,"""CERT C Secure Coding Standard (2008) Appendix - POSIX (POS)""",Obsolete,CWE-170;CWE-242;CWE-272;CWE-273;CWE-363;CWE-366;CWE-562;CWE-59;CWE-667;CWE-686;CWE-696
+CWE-751,"""2009 Top 25 - Insecure Interaction Between Components""",Obsolete,CWE-116;CWE-20;CWE-209;CWE-319;CWE-352;CWE-362;CWE-78;CWE-79;CWE-89
+CWE-752,"""2009 Top 25 - Risky Resource Management""",Obsolete,CWE-119;CWE-404;CWE-426;CWE-494;CWE-642;CWE-665;CWE-682;CWE-73;CWE-94
+CWE-753,"""2009 Top 25 - Porous Defenses""",Obsolete,CWE-250;CWE-259;CWE-285;CWE-327;CWE-330;CWE-602;CWE-732;CWE-798
+CWE-801,"""2010 Top 25 - Insecure Interaction Between Components""",Obsolete,CWE-209;CWE-352;CWE-362;CWE-434;CWE-601;CWE-78;CWE-79;CWE-89
+CWE-802,"""2010 Top 25 - Risky Resource Management""",Obsolete,CWE-120;CWE-129;CWE-131;CWE-190;CWE-22;CWE-494;CWE-754;CWE-770;CWE-805;CWE-98
+CWE-803,"""2010 Top 25 - Porous Defenses""",Obsolete,CWE-285;CWE-306;CWE-311;CWE-327;CWE-732;CWE-798;CWE-807
+CWE-808,"""2010 Top 25 - Weaknesses On the Cusp""",Obsolete,CWE-134;CWE-212;CWE-307;CWE-330;CWE-416;CWE-426;CWE-454;CWE-456;CWE-476;CWE-59;CWE-672;CWE-681;CWE-749;CWE-772;CWE-799;CWE-804
+CWE-810,"""OWASP Top Ten 2010 Category A1 - Injection""",Obsolete,CWE-78;CWE-88;CWE-89;CWE-90;CWE-91
+CWE-811,"""OWASP Top Ten 2010 Category A2 - Cross-Site Scripting (XSS)""",Obsolete,CWE-79
+CWE-812,"""OWASP Top Ten 2010 Category A3 - Broken Authentication and Session Management""",Obsolete,CWE-287;CWE-306;CWE-307;CWE-798
+CWE-813,"""OWASP Top Ten 2010 Category A4 - Insecure Direct Object References""",Obsolete,CWE-22;CWE-434;CWE-639;CWE-829;CWE-862;CWE-863;CWE-99
+CWE-814,"""OWASP Top Ten 2010 Category A5 - Cross-Site Request Forgery(CSRF)""",Obsolete,CWE-352
+CWE-815,"""OWASP Top Ten 2010 Category A6 - Security Misconfiguration""",Obsolete,CWE-209;CWE-219;CWE-250;CWE-538;CWE-552;CWE-732
+CWE-816,"""OWASP Top Ten 2010 Category A7 - Insecure Cryptographic Storage""",Obsolete,CWE-311;CWE-312;CWE-326;CWE-327;CWE-759
+CWE-817,"""OWASP Top Ten 2010 Category A8 - Failure to Restrict URL Access""",Obsolete,CWE-285;CWE-862;CWE-863
+CWE-818,"""OWASP Top Ten 2010 Category A9 - Insufficient Transport Layer Protection""",Obsolete,CWE-311;CWE-319
+CWE-819,"""OWASP Top Ten 2010 Category A10 - Unvalidated Redirects and Forwards""",Obsolete,CWE-601
+CWE-840,"""Business Logic Errors""",Incomplete,CWE-283;CWE-288;CWE-639;CWE-640;CWE-708;CWE-770;CWE-826;CWE-837;CWE-841
+CWE-845,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 2 - Input Validation and Data Sanitization (IDS)""",Obsolete,CWE-116;CWE-134;CWE-144;CWE-150;CWE-180;CWE-182;CWE-289;CWE-409;CWE-625;CWE-647;CWE-78;CWE-838
+CWE-846,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 3 - Declarations and Initialization (DCL)""",Obsolete,CWE-665
+CWE-847,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 4 - Expressions (EXP)""",Obsolete,CWE-252;CWE-479;CWE-595;CWE-597
+CWE-848,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 5 - Numeric Types and Operations (NUM)""",Obsolete,CWE-197;CWE-369;CWE-681
+CWE-849,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 6 - Object Orientation (OBJ)""",Obsolete,CWE-374;CWE-375;CWE-486;CWE-491;CWE-492;CWE-493;CWE-498;CWE-500;CWE-582;CWE-766
+CWE-850,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 7 - Methods (MET)""",Obsolete,CWE-487;CWE-568;CWE-573;CWE-581;CWE-583;CWE-586;CWE-589;CWE-617
+CWE-851,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 8 - Exceptional Behavior (ERR)""",Obsolete,CWE-209;CWE-230;CWE-232;CWE-248;CWE-382;CWE-390;CWE-395;CWE-397;CWE-460;CWE-497;CWE-584;CWE-600;CWE-690;CWE-703;CWE-705
+CWE-852,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 9 - Visibility and Atomicity (VNA)""",Obsolete,CWE-362;CWE-366;CWE-413;CWE-567;CWE-662;CWE-667
+CWE-853,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 10 - Locking (LCK)""",Obsolete,CWE-412;CWE-413;CWE-609;CWE-667;CWE-820;CWE-833
+CWE-854,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 11 - Thread APIs (THI)""",Obsolete,CWE-572;CWE-705
+CWE-855,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 12 - Thread Pools (TPS)""",Obsolete,CWE-392;CWE-405;CWE-410
+CWE-856,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 13 - Thread-Safety Miscellaneous (TSM)""",Obsolete,
+CWE-857,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 14 - Input Output (FIO)""",Obsolete,CWE-135;CWE-198;CWE-276;CWE-279;CWE-359;CWE-377;CWE-404;CWE-405;CWE-459;CWE-532;CWE-67;CWE-732;CWE-770
+CWE-858,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 15 - Serialization (SER)""",Obsolete,CWE-250;CWE-319;CWE-400;CWE-499;CWE-502;CWE-589;CWE-770
+CWE-859,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 16 - Platform Security (SEC)""",Obsolete,CWE-111;CWE-266;CWE-272;CWE-300;CWE-302;CWE-319;CWE-347;CWE-470;CWE-494;CWE-732;CWE-807
+CWE-860,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 17 - Runtime Environment (ENV)""",Obsolete,CWE-349;CWE-732
+CWE-861,"""The CERT Oracle Secure Coding Standard for Java (2011) Chapter 18 - Miscellaneous (MSC)""",Obsolete,CWE-259;CWE-311;CWE-330;CWE-332;CWE-333;CWE-336;CWE-337;CWE-400;CWE-401;CWE-543;CWE-770;CWE-798
+CWE-864,"""2011 Top 25 - Insecure Interaction Between Components""",Obsolete,CWE-352;CWE-434;CWE-601;CWE-78;CWE-79;CWE-829;CWE-89
+CWE-865,"""2011 Top 25 - Risky Resource Management""",Obsolete,CWE-120;CWE-131;CWE-134;CWE-190;CWE-22;CWE-494;CWE-676
+CWE-866,"""2011 Top 25 - Porous Defenses""",Obsolete,CWE-250;CWE-306;CWE-307;CWE-311;CWE-327;CWE-732;CWE-759;CWE-798;CWE-807;CWE-862;CWE-863
+CWE-867,"""2011 Top 25 - Weaknesses On the Cusp""",Obsolete,CWE-129;CWE-209;CWE-212;CWE-330;CWE-362;CWE-456;CWE-476;CWE-681;CWE-754;CWE-770;CWE-772;CWE-805;CWE-822;CWE-825;CWE-838;CWE-841
+CWE-869,"""CERT C++ Secure Coding Section 01 - Preprocessor (PRE)""",Incomplete,
+CWE-870,"""CERT C++ Secure Coding Section 02 - Declarations and Initialization (DCL)""",Incomplete,
+CWE-871,"""CERT C++ Secure Coding Section 03 - Expressions (EXP)""",Incomplete,CWE-476;CWE-480;CWE-768
+CWE-872,"""CERT C++ Secure Coding Section 04 - Integers (INT)""",Incomplete,CWE-129;CWE-190;CWE-192;CWE-197;CWE-20;CWE-369;CWE-466;CWE-587;CWE-606;CWE-676;CWE-681;CWE-682
+CWE-873,"""CERT C++ Secure Coding Section 05 - Floating Point Arithmetic (FLP)""",Incomplete,CWE-369;CWE-681;CWE-682;CWE-686
+CWE-874,"""CERT C++ Secure Coding Section 06 - Arrays and the STL (ARR)""",Incomplete,CWE-119;CWE-129;CWE-467;CWE-469;CWE-665;CWE-805
+CWE-875,"""CERT C++ Secure Coding Section 07 - Characters and Strings (STR)""",Incomplete,CWE-119;CWE-120;CWE-170;CWE-193;CWE-464;CWE-686;CWE-704;CWE-78;CWE-88
+CWE-876,"""CERT C++ Secure Coding Section 08 - Memory Management (MEM)""",Incomplete,CWE-119;CWE-128;CWE-131;CWE-190;CWE-20;CWE-226;CWE-244;CWE-252;CWE-391;CWE-404;CWE-415;CWE-416;CWE-476;CWE-528;CWE-590;CWE-591;CWE-665;CWE-687;CWE-690;CWE-703;CWE-754;CWE-762;CWE-770;CWE-822
+CWE-877,"""CERT C++ Secure Coding Section 09 - Input Output (FIO)""",Incomplete,CWE-119;CWE-134;CWE-22;CWE-241;CWE-276;CWE-279;CWE-362;CWE-367;CWE-37;CWE-379;CWE-38;CWE-39;CWE-391;CWE-403;CWE-404;CWE-41;CWE-552;CWE-59;CWE-62;CWE-64;CWE-65;CWE-67;CWE-675;CWE-676;CWE-73;CWE-732;CWE-770
+CWE-878,"""CERT C++ Secure Coding Section 10 - Environment (ENV)""",Incomplete,CWE-119;CWE-426;CWE-462;CWE-705;CWE-78;CWE-807;CWE-88
+CWE-879,"""CERT C++ Secure Coding Section 11 - Signals (SIG)""",Incomplete,CWE-479;CWE-662
+CWE-880,"""CERT C++ Secure Coding Section 12 - Exceptions and Error Handling (ERR)""",Incomplete,CWE-209;CWE-390;CWE-391;CWE-460;CWE-497;CWE-544;CWE-703;CWE-705;CWE-754;CWE-755
+CWE-881,"""CERT C++ Secure Coding Section 13 - Object Oriented Programming (OOP)""",Incomplete,
+CWE-882,"""CERT C++ Secure Coding Section 14 - Concurrency (CON)""",Incomplete,CWE-362;CWE-366;CWE-404;CWE-488;CWE-772
+CWE-883,"""CERT C++ Secure Coding Section 49 - Miscellaneous (MSC)""",Incomplete,CWE-116;CWE-14;CWE-176;CWE-20;CWE-327;CWE-330;CWE-480;CWE-482;CWE-561;CWE-563;CWE-570;CWE-571;CWE-697;CWE-704
+CWE-885,"""SFP Primary Cluster: Risky Values""",Incomplete,CWE-998
+CWE-886,"""SFP Primary Cluster: Unused entities""",Incomplete,CWE-482;CWE-561;CWE-563
+CWE-887,"""SFP Primary Cluster: API""",Incomplete,CWE-1001
+CWE-889,"""SFP Primary Cluster: Exception Management""",Incomplete,CWE-960;CWE-961;CWE-962
+CWE-890,"""SFP Primary Cluster: Memory Access""",Incomplete,CWE-970;CWE-971;CWE-972;CWE-973;CWE-974
+CWE-891,"""SFP Primary Cluster: Memory Management""",Incomplete,CWE-969
+CWE-892,"""SFP Primary Cluster: Resource Management""",Incomplete,CWE-982;CWE-983;CWE-984;CWE-985
+CWE-893,"""SFP Primary Cluster: Path Resolution""",Incomplete,CWE-979;CWE-980;CWE-981
+CWE-894,"""SFP Primary Cluster: Synchronization""",Incomplete,CWE-986;CWE-987;CWE-988;CWE-989
+CWE-895,"""SFP Primary Cluster: Information Leak""",Incomplete,CWE-963;CWE-964;CWE-965;CWE-966;CWE-967
+CWE-896,"""SFP Primary Cluster: Tainted Input""",Incomplete,CWE-990;CWE-991;CWE-992;CWE-993;CWE-994
+CWE-897,"""SFP Primary Cluster: Entry Points""",Incomplete,CWE-1002
+CWE-898,"""SFP Primary Cluster: Authentication""",Incomplete,CWE-947;CWE-948;CWE-949;CWE-950;CWE-951;CWE-952;CWE-953;CWE-954;CWE-955
+CWE-899,"""SFP Primary Cluster: Access Control""",Incomplete,CWE-944;CWE-945;CWE-946
+CWE-901,"""SFP Primary Cluster: Privilege""",Incomplete,CWE-250;CWE-266;CWE-267;CWE-268;CWE-269;CWE-270;CWE-271;CWE-272;CWE-274;CWE-520;CWE-653;CWE-9
+CWE-902,"""SFP Primary Cluster: Channel""",Incomplete,CWE-956;CWE-957
+CWE-903,"""SFP Primary Cluster: Cryptography""",Incomplete,CWE-958;CWE-959
+CWE-904,"""SFP Primary Cluster: Malware""",Incomplete,CWE-506;CWE-507;CWE-508;CWE-509;CWE-510;CWE-511;CWE-512;CWE-69;CWE-968
+CWE-905,"""SFP Primary Cluster: Predictability""",Incomplete,CWE-330;CWE-331;CWE-332;CWE-333;CWE-334;CWE-335;CWE-336;CWE-337;CWE-338;CWE-339;CWE-340;CWE-341;CWE-342;CWE-343;CWE-344
+CWE-906,"""SFP Primary Cluster: UI""",Incomplete,CWE-995;CWE-996;CWE-997
+CWE-907,"""SFP Primary Cluster: Other""",Incomplete,CWE-975;CWE-976;CWE-977;CWE-978
+CWE-929,"""OWASP Top Ten 2013 Category A1 - Injection""",Obsolete,CWE-74;CWE-77;CWE-78;CWE-88;CWE-89;CWE-90;CWE-91;CWE-643;CWE-652
+CWE-930,"""OWASP Top Ten 2013 Category A2 - Broken Authentication and Session Management""",Obsolete,CWE-256;CWE-287;CWE-311;CWE-384;CWE-522;CWE-523;CWE-613;CWE-620;CWE-640
+CWE-931,"""OWASP Top Ten 2013 Category A3 - Cross-Site Scripting (XSS)""",Obsolete,CWE-79
+CWE-932,"""OWASP Top Ten 2013 Category A4 - Insecure Direct Object References""",Obsolete,CWE-22;CWE-99;CWE-639;CWE-706
+CWE-933,"""OWASP Top Ten 2013 Category A5 - Security Misconfiguration""",Obsolete,CWE-2;CWE-16;CWE-209;CWE-215;CWE-548
+CWE-934,"""OWASP Top Ten 2013 Category A6 - Sensitive Data Exposure""",Obsolete,CWE-311;CWE-312;CWE-319;CWE-320;CWE-325;CWE-326;CWE-327;CWE-328
+CWE-935,"""OWASP Top Ten 2013 Category A7 - Missing Function Level Access Control""",Obsolete,CWE-285
+CWE-936,"""OWASP Top Ten 2013 Category A8 - Cross-Site Request Forgery (CSRF)""",Obsolete,CWE-352
+CWE-937,"""OWASP Top Ten 2013 Category A9 - Using Components with Known Vulnerabilities""",Obsolete,
+CWE-938,"""OWASP Top Ten 2013 Category A10 - Unvalidated Redirects and Forwards""",Obsolete,CWE-601
+CWE-944,"""SFP Secondary Cluster: Access Management""",Incomplete,CWE-282;CWE-283;CWE-284;CWE-286;CWE-708
+CWE-945,"""SFP Secondary Cluster: Insecure Resource Access""",Incomplete,CWE-285;CWE-424;CWE-639;CWE-650
+CWE-946,"""SFP Secondary Cluster: Insecure Resource Permissions""",Incomplete,CWE-276;CWE-277;CWE-278;CWE-279;CWE-281;CWE-560;CWE-732
+CWE-947,"""SFP Secondary Cluster: Authentication Bypass""",Incomplete,CWE-287;CWE-288;CWE-289;CWE-303;CWE-304;CWE-305;CWE-308;CWE-309;CWE-603
+CWE-948,"""SFP Secondary Cluster: Digital Certificate""",Incomplete,CWE-296;CWE-297;CWE-298;CWE-299;CWE-593;CWE-599
+CWE-949,"""SFP Secondary Cluster: Faulty Endpoint Authentication""",Incomplete,CWE-293;CWE-302;CWE-345;CWE-346;CWE-350;CWE-360;CWE-551;CWE-565;CWE-647
+CWE-950,"""SFP Secondary Cluster: Hardcoded Sensitive Data""",Incomplete,CWE-258;CWE-259;CWE-321;CWE-547
+CWE-951,"""SFP Secondary Cluster: Insecure Authentication Policy""",Incomplete,CWE-262;CWE-263;CWE-521;CWE-556;CWE-613;CWE-645
+CWE-952,"""SFP Secondary Cluster: Missing Authentication""",Incomplete,CWE-306;CWE-620
+CWE-953,"""SFP Secondary Cluster: Missing Endpoint Authentication""",Incomplete,CWE-422;CWE-425
+CWE-954,"""SFP Secondary Cluster: Multiple Binds to the Same Port""",Incomplete,CWE-605
+CWE-955,"""SFP Secondary Cluster: Unrestricted Authentication""",Incomplete,CWE-307
+CWE-956,"""SFP Secondary Cluster: Channel Attack""",Incomplete,CWE-290;CWE-294;CWE-300;CWE-301;CWE-419;CWE-420;CWE-421;CWE-441
+CWE-957,"""SFP Secondary Cluster: Protocol Error""",Incomplete,CWE-353;CWE-435;CWE-436;CWE-437;CWE-757
+CWE-958,"""SFP Secondary Cluster: Broken Cryptography""",Incomplete,CWE-325;CWE-327;CWE-328;CWE-759;CWE-760
+CWE-959,"""SFP Secondary Cluster: Weak Cryptography""",Incomplete,CWE-261;CWE-322;CWE-323;CWE-324;CWE-326;CWE-329;CWE-347;CWE-640
+CWE-960,"""SFP Secondary Cluster: Ambiguous Exception Type""",Incomplete,CWE-396;CWE-397
+CWE-961,"""SFP Secondary Cluster: Incorrect Exception Behavior""",Incomplete,CWE-392;CWE-393;CWE-455;CWE-460;CWE-544;CWE-584;CWE-636;CWE-703
+CWE-962,"""SFP Secondary Cluster: Unchecked Status Condition""",Incomplete,CWE-248;CWE-252;CWE-253;CWE-273;CWE-280;CWE-372;CWE-390;CWE-391;CWE-394;CWE-395;CWE-431;CWE-478;CWE-484;CWE-600;CWE-665;CWE-754;CWE-755
+CWE-963,"""SFP Secondary Cluster: Exposed Data""",Incomplete,CWE-11;CWE-117;CWE-12;CWE-13;CWE-14;CWE-200;CWE-201;CWE-209;CWE-210;CWE-211;CWE-212;CWE-213;CWE-214;CWE-215;CWE-219;CWE-220;CWE-226;CWE-244;CWE-256;CWE-257;CWE-260;CWE-311;CWE-312;CWE-313;CWE-314;CWE-315;CWE-316;CWE-317;CWE-318;CWE-319;CWE-374;CWE-375;CWE-402;CWE-403;CWE-433;CWE-495;CWE-497;CWE-498;CWE-499;CWE-5;CWE-501;CWE-522;CWE-523;CWE-526;CWE-527;CWE-528;CWE-529;CWE-530;CWE-532;CWE-535;CWE-536;CWE-537;CWE-538;CWE-539;CWE-540;CWE-541;CWE-546;CWE-548;CWE-550;CWE-552;CWE-555;CWE-591;CWE-598;CWE-607;CWE-612;CWE-615;CWE-642;CWE-668;CWE-669;CWE-7;CWE-756;CWE-767;CWE-8
+CWE-964,"""SFP Secondary Cluster: Exposure Temporary File""",Incomplete,CWE-377;CWE-378;CWE-379
+CWE-965,"""SFP Secondary Cluster: Insecure Session Management""",Incomplete,CWE-488;CWE-524;CWE-6
+CWE-966,"""SFP Secondary Cluster: Other Exposures""",Incomplete,CWE-453;CWE-487;CWE-492;CWE-525;CWE-614;CWE-651
+CWE-967,"""SFP Secondary Cluster: State Disclosure""",Incomplete,CWE-202;CWE-203;CWE-204;CWE-205;CWE-206;CWE-207;CWE-208
+CWE-968,"""SFP Secondary Cluster: Covert Channel""",Incomplete,CWE-385;CWE-514;CWE-515
+CWE-969,"""SFP Secondary Cluster: Faulty Memory Release""",Incomplete,CWE-415;CWE-590;CWE-761;CWE-763
+CWE-970,"""SFP Secondary Cluster: Faulty Buffer Access""",Incomplete,CWE-118;CWE-120;CWE-121;CWE-122;CWE-124;CWE-126;CWE-127
+CWE-971,"""SFP Secondary Cluster: Faulty Pointer Use""",Incomplete,CWE-416;CWE-476;CWE-588
+CWE-972,"""SFP Secondary Cluster: Faulty String Expansion""",Incomplete,CWE-785
+CWE-973,"""SFP Secondary Cluster: Improper NULL Termination""",Incomplete,CWE-170
+CWE-974,"""SFP Secondary Cluster: Incorrect Buffer Length Computation""",Incomplete,CWE-131;CWE-135;CWE-251;CWE-467
+CWE-975,"""SFP Secondary Cluster: Architecture""",Incomplete,CWE-348;CWE-359;CWE-602;CWE-637;CWE-649;CWE-654;CWE-656;CWE-657;CWE-671;CWE-693;CWE-749
+CWE-976,"""SFP Secondary Cluster: Compiler""",Incomplete,CWE-733
+CWE-977,"""SFP Secondary Cluster: Design""",Incomplete,CWE-115;CWE-187;CWE-188;CWE-193;CWE-349;CWE-405;CWE-406;CWE-407;CWE-408;CWE-409;CWE-410;CWE-430;CWE-462;CWE-463;CWE-464;CWE-483;CWE-581;CWE-595;CWE-618;CWE-648;CWE-670;CWE-682;CWE-691;CWE-696;CWE-697;CWE-698;CWE-705
+CWE-978,"""SFP Secondary Cluster: Implementation""",Incomplete,CWE-358;CWE-398;CWE-623;CWE-710
+CWE-979,"""SFP Secondary Cluster: Failed Chroot Jail""",Incomplete,CWE-243
+CWE-980,"""SFP Secondary Cluster: Link in Resource Name Resolution""",Incomplete,CWE-386;CWE-59;CWE-610;CWE-62;CWE-64;CWE-65
+CWE-981,"""SFP Secondary Cluster: Path Traversal""",Incomplete,CWE-22;CWE-23;CWE-24;CWE-25;CWE-26;CWE-27;CWE-28;CWE-29;CWE-30;CWE-31;CWE-32;CWE-33;CWE-34;CWE-35;CWE-36;CWE-37;CWE-38;CWE-39;CWE-40;CWE-41;CWE-42;CWE-428;CWE-43;CWE-44;CWE-45;CWE-46;CWE-47;CWE-48;CWE-49;CWE-50;CWE-51;CWE-52;CWE-53;CWE-54;CWE-55;CWE-56;CWE-57;CWE-58;CWE-66;CWE-67;CWE-706;CWE-72;CWE-73
+CWE-982,"""SFP Secondary Cluster: Failure to Release Resource""",Incomplete,CWE-404;CWE-459
+CWE-983,"""SFP Secondary Cluster: Faulty Resource Use""",Incomplete,CWE-672
+CWE-984,"""SFP Secondary Cluster: Life Cycle""",Incomplete,CWE-664;CWE-666;CWE-675;CWE-694
+CWE-985,"""SFP Secondary Cluster: Unrestricted Consumption""",Incomplete,CWE-400;CWE-674;CWE-770;CWE-774
+CWE-986,"""SFP Secondary Cluster: Missing Lock""",Incomplete,CWE-364;CWE-365;CWE-366;CWE-368;CWE-413;CWE-414;CWE-543;CWE-567;CWE-609;CWE-662;CWE-663;CWE-667
+CWE-987,"""SFP Secondary Cluster: Multiple Locks/Unlocks""",Incomplete,CWE-585;CWE-764;CWE-765
+CWE-988,"""SFP Secondary Cluster: Race Condition Window""",Incomplete,CWE-362;CWE-363;CWE-367;CWE-370;CWE-638
+CWE-989,"""SFP Secondary Cluster: Unrestricted Lock""",Incomplete,CWE-412
+CWE-990,"""SFP Secondary Cluster: Tainted Input to Command""",Incomplete,CWE-102;CWE-103;CWE-104;CWE-105;CWE-106;CWE-107;CWE-108;CWE-109;CWE-110;CWE-112;CWE-113;CWE-130;CWE-134;CWE-138;CWE-140;CWE-141;CWE-142;CWE-143;CWE-144;CWE-145;CWE-146;CWE-147;CWE-148;CWE-149;CWE-150;CWE-151;CWE-152;CWE-153;CWE-154;CWE-155;CWE-156;CWE-157;CWE-158;CWE-159;CWE-160;CWE-161;CWE-162;CWE-163;CWE-164;CWE-165;CWE-183;CWE-184;CWE-185;CWE-186;CWE-444;CWE-553;CWE-554;CWE-564;CWE-601;CWE-611;CWE-619;CWE-621;CWE-624;CWE-625;CWE-626;CWE-627;CWE-641;CWE-643;CWE-644;CWE-646;CWE-652;CWE-687;CWE-707;CWE-74;CWE-75;CWE-76;CWE-77;CWE-78;CWE-79;CWE-80;CWE-81;CWE-82;CWE-83;CWE-84;CWE-85;CWE-86;CWE-87;CWE-88;CWE-89;CWE-90;CWE-91;CWE-93;CWE-95;CWE-97;CWE-99
+CWE-991,"""SFP Secondary Cluster: Tainted Input to Environment""",Incomplete,CWE-114;CWE-427;CWE-470;CWE-471;CWE-472;CWE-473;CWE-494;CWE-622;CWE-673;CWE-94
+CWE-992,"""SFP Secondary Cluster: Faulty Input Transformation""",Incomplete,CWE-116;CWE-166;CWE-167;CWE-168;CWE-172;CWE-173;CWE-174;CWE-175;CWE-176;CWE-177;CWE-178;CWE-179;CWE-180;CWE-181;CWE-182
+CWE-993,"""SFP Secondary Cluster: Incorrect Input Handling""",Incomplete,CWE-198;CWE-228;CWE-229;CWE-230;CWE-231;CWE-232;CWE-233;CWE-234;CWE-235;CWE-236;CWE-237;CWE-238;CWE-239;CWE-240;CWE-241;CWE-351;CWE-354
+CWE-994,"""SFP Secondary Cluster: Tainted Input to Variable""",Incomplete,CWE-15;CWE-20;CWE-454;CWE-496;CWE-502;CWE-566;CWE-606;CWE-616
+CWE-995,"""SFP Secondary Cluster: Feature""",Incomplete,CWE-447;CWE-448;CWE-449;CWE-450;CWE-451;CWE-549;CWE-655
+CWE-996,"""SFP Secondary Cluster: Security""",Incomplete,CWE-356;CWE-357;CWE-446
+CWE-997,"""SFP Secondary Cluster: Information Loss""",Incomplete,CWE-221;CWE-222;CWE-223;CWE-224
+CWE-998,"""SFP Secondary Cluster: Glitch in Computation""",Incomplete,CWE-128;CWE-190;CWE-191;CWE-194;CWE-195;CWE-196;CWE-197;CWE-369;CWE-456;CWE-457;CWE-466;CWE-468;CWE-469;CWE-475;CWE-480;CWE-481;CWE-486;CWE-562;CWE-570;CWE-571;CWE-579;CWE-587;CWE-594;CWE-597;CWE-628;CWE-681;CWE-683;CWE-685;CWE-686;CWE-688;CWE-704;CWE-768
